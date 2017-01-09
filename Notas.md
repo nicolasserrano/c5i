@@ -4,11 +4,15 @@
 - Ayuda a pensar como pensamos
 - Gestión de todas las áreas de la empresa con sistemas de información
 - Sector en que se puede emprender con recursos propios
+
 ## ¿Que es un ordenador?
 Ordenador y calculadoras.
+
 ## Se puede hacer un ordenador de plástico o de madera.
 - Video de Babbage (novelado): http://www.youtube.com/watch?v=QVxbNZWLP60
 - Difference Engine demo: https://youtu.be/BlbQsKpq3Ak?t=1m35s (up to 2:54)
+- Regla de cálculo (analógica) http://www.antiquark.com/sliderule/sim/n3t/virtual-n3-t.html
+
 ## Que diferencia a un ordenador de otras máquinas
 
 ## Cuales son las características de un ordenador actual (desde 1940)
