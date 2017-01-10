@@ -10,7 +10,7 @@
 Ordenador y calculadoras.
 
 ## Se puede hacer un ordenador de plástico o de madera.
-- <www.computerhistory.org/babbage/x>
+- <http://www.computerhistory.org/babbage>
 <iframe width="360" height="240" src="https://www.youtube.com/embed/KBuJqUfO4-w" frameborder="0" allowfullscreen></iframe>
 - Video de Babbage (novelado): http://www.youtube.com/watch?v=QVxbNZWLP60
 - Difference Engine demo: https://youtu.be/BlbQsKpq3Ak?t=1m35s (up to 2:54)
