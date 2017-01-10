@@ -15,6 +15,8 @@ Ordenador y calculadoras.
 - Video de Babbage (novelado): http://www.youtube.com/watch?v=QVxbNZWLP60
 - Difference Engine demo: https://youtu.be/BlbQsKpq3Ak?t=1m35s (up to 2:54)
 - Regla de cálculo (analógica) http://www.antiquark.com/sliderule/sim/n3t/virtual-n3-t.html
+[url=https://flic.kr/p/CwxmNV][img]https://c2.staticflickr.com/2/1639/23974457001_be4f4f870f.jpg[/img][/url][url=https://flic.kr/p/CwxmNV]Calculadora Brunsviga[/url] by [url=https://www.flickr.com/photos/ziol/]Jordi Domènech i Arnau[/url], en Flickr
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/ziol/23974457001/in/album-72157660822955173/" title="Calculadora Brunsviga"><img src="https://c2.staticflickr.com/2/1639/23974457001_be4f4f870f.jpg" width="500" height="375" alt="Calculadora Brunsviga"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Que diferencia a un ordenador de otras máquinas
 
@@ -45,14 +47,14 @@ Las instrucciones del procesador son:
 - Cual es el argumento común de las películas de robots u ordenadores (Inteligencia Artificial, Yo robot, El hombre bicentenario, 2001 Una Odisea del espacio, Blade Runner, ...)
 - Contenido de la asignatura.
 - Evaluación
-Parte 1 25% A
-  4 prácticas de 5% (10 puentos de prácticas y 40 puntos de práctica evaluada). A1, A2, A3, A4
-  1 prueba evaluada 5% PA
-  Nota A: 20% PA + 20% Max(A1, PA) + 20% Max(A2, PA) + 20% Max(A3, PA) + 20% Max(A4, PA). Si A1 = A2 = A3 = A4 = 0 => A = 100% PA
-Parte 2 25% B
-Proyecto 10% (o hasta el 25%) P
-Ex. Final 40% (o reducido al 25% en caso de aumentar el proyecto al 25%) M
+  1 Parte 1 25% A. 
+    - 4 prácticas de 5% (10 puentos de prácticas y 40 puntos de práctica evaluada). A1, A2, A3, A4
+    - 1 prueba evaluada 5% PA
+    - Nota A: 20% PA + 20% Max(A1, PA) + 20% Max(A2, PA) + 20% Max(A3, PA) + 20% Max(A4, PA). Si A1 = A2 = A3 = A4 = 0 => A = 100% PA
+  2 Parte 2 25% B
+  3 Proyecto 10% (o hasta el 25%) P
+  4 Ex. Final 40% (o reducido al 25% en caso de aumentar el proyecto al 25%) M
 Nota final = 10% P + 40% M + 25% Max(A, M) + 25% Max(B, M) 
-- Trailer The Imitation Game: https://www.youtube.com/watch?v=q5VZ-NNt4MQ
+- Trailer The Imitation Game: https://www.youtube.com/watch?v=q5VZ-NNt4MQ 
 - File clerk model
 - La máquina de Turing
