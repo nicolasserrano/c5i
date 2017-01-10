@@ -24,7 +24,7 @@ Ordenador y calculadoras.
 - memoria de datos e instrucciones (arquitectura Von Neumann)
 
 ## Simulador de procesador
-<c5i-ui.html>
+https://nicolasserrano.github.io/c5i/c5i-ui.html
 
 ## Otros puntos
 - Cual es el argumento común de las películas de robots u ordenadores (Inteligencia Artificial, Yo robot, El hombre bicentenario, 2001 Una Odisea del espacio, Blade Runner, ...)
