@@ -12,9 +12,9 @@ Ordenador y calculadoras.
 ## Se puede hacer un ordenador de plástico o de madera.
 - <http://www.computerhistory.org/babbage>
 <iframe width="360" height="240" src="https://www.youtube.com/embed/KBuJqUfO4-w" frameborder="0" allowfullscreen></iframe>
-- Video de Babbage (novelado): http://www.youtube.com/watch?v=QVxbNZWLP60
-- Difference Engine demo: https://youtu.be/BlbQsKpq3Ak?t=1m35s (up to 2:54)
-- Regla de cálculo (analógica) http://www.antiquark.com/sliderule/sim/n3t/virtual-n3-t.html
+- Video de Babbage (novelado): <http://www.youtube.com/watch?v=QVxbNZWLP60>
+- Difference Engine demo: <https://youtu.be/BlbQsKpq3Ak?t=1m35s> (hasta 2:54)
+- Regla de cálculo (analógica) <http://www.antiquark.com/sliderule/sim/n3t/virtual-n3-t.html>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/ziol/23974457001/in/album-72157660822955173/" title="Calculadora Brunsviga"><img src="https://c2.staticflickr.com/2/1639/23974457001_be4f4f870f.jpg" width="500" height="375" alt="Calculadora Brunsviga"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Que diferencia a un ordenador de otras máquinas
