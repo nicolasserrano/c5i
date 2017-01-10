@@ -30,13 +30,14 @@ https://nicolasserrano.github.io/c5i/c5i-ui.html
 El procesador costa de un registro donde se realizan las operaciones y 100 posiciones de memoria (numeradas de la 0 a la 99).
 Las sentencias constan de 2 partes, el tipo de instrucción y la dirección de memoria a la que afecta.
 Las instrucciones del procesador son:
+
 | Instrucción | Descripción |
 | ----- | ----- |
-ADD | suma al registro el contenido de la dirección de memoria
-SUBTRACT | resta al registro el contenido de la dirección de memoria
-READ | lee la dirección de memoria y la pone en el registro
-WRITE | escribe el contenido del registro en la dirección de memoria
-JUMP |si el registro es 0, salta a la instrucción indicado en la dirección de memoria 
+| ADD | suma al registro el contenido de la dirección de memoria |
+| SUBTRACT | resta al registro el contenido de la dirección de memoria |
+| READ | lee la dirección de memoria y la pone en el registro |
+| WRITE | escribe el contenido del registro en la dirección de memoria |
+| JUMP |si el registro es 0, salta a la instrucción indicado en la dirección de memoria |
 
 <iframe width="660" height="550" src="https://nicolasserrano.github.io/c5i/c5i-ui.html" frameborder="1" allowfullscreen></iframe>
 
