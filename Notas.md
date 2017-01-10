@@ -9,6 +9,7 @@
 Ordenador y calculadoras.
 
 ## Se puede hacer un ordenador de plástico o de madera.
+- www.computerhistory.org/babbage/
 - Video de Babbage (novelado): http://www.youtube.com/watch?v=QVxbNZWLP60
 - Difference Engine demo: https://youtu.be/BlbQsKpq3Ak?t=1m35s (up to 2:54)
 - Regla de cálculo (analógica) http://www.antiquark.com/sliderule/sim/n3t/virtual-n3-t.html
@@ -22,16 +23,18 @@ Ordenador y calculadoras.
 - propósito general
 - memoria de datos e instrucciones (arquitectura Von Neumann)
 
+## Simulador de procesador
+<c5i-ui.html>
+
 ## Otros puntos
-Cual es el argumento común de las películas de robots u ordenadores (Inteligencia Artificial, Yo robot, El hombre bicentenario, 2001 Una Odisea del espacio, Blade Runner, ...)
-Contenido de la asignatura.
-Evaluación
+- Cual es el argumento común de las películas de robots u ordenadores (Inteligencia Artificial, Yo robot, El hombre bicentenario, 2001 Una Odisea del espacio, Blade Runner, ...)
+- Contenido de la asignatura.
+- Evaluación
 Parte 1 25%
   4 prácticas de 5% (10 puentos de prácticas y 40 puntos de práctica evaluada)
 Parte 2 25%
 Proyecto 10%
 Ex. Final 40%
-Trabajo.
-Trailer The Imitation Game: https://www.youtube.com/watch?v=q5VZ-NNt4MQ
-File clerk modelo
-La máquina de Turing
+- Trailer The Imitation Game: https://www.youtube.com/watch?v=q5VZ-NNt4MQ
+- File clerk model
+- La máquina de Turing
