@@ -26,6 +26,7 @@ Ordenador y calculadoras.
 
 ## Simulador de procesador
 https://nicolasserrano.github.io/c5i/c5i-ui.html
+
 ## Otros puntos
 - Cual es el argumento común de las películas de robots u ordenadores (Inteligencia Artificial, Yo robot, El hombre bicentenario, 2001 Una Odisea del espacio, Blade Runner, ...)
 - Contenido de la asignatura.
