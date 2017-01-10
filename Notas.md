@@ -1,6 +1,6 @@
 # Entender el ordenador
 
-## Porque es importante entender qué es y que hace un ordenador..
+## Porque es importante entender qué es y que hace un ordenador
 - Herramienta de trabajo en el futuro profesional
 - Ayuda a pensar como pensamos
 - Gestión de todas las áreas de la empresa con sistemas de información
@@ -26,7 +26,6 @@ Ordenador y calculadoras.
 
 ## Simulador de procesador
 https://nicolasserrano.github.io/c5i/c5i-ui.html
-
 ## Otros puntos
 - Cual es el argumento común de las películas de robots u ordenadores (Inteligencia Artificial, Yo robot, El hombre bicentenario, 2001 Una Odisea del espacio, Blade Runner, ...)
 - Contenido de la asignatura.
