@@ -1,4 +1,5 @@
 # Entender el ordenador
+
 ## Porque es importante entender qué es y que hace un ordenador
 - Herramienta de trabajo en el futuro profesional
 - Ayuda a pensar como pensamos
