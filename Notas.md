@@ -48,7 +48,7 @@ Las instrucciones del procesador son:
 - Contenido de la asignatura.
 - Evaluación
   1. Parte 1 25% A. 
-    - 4 prácticas de 5% (10 puentos de prácticas y 40 puntos de práctica evaluada). A1, A2, A3, A4
+    - 4 prácticas de 5% (10 puntos de prácticas y 40 puntos de práctica evaluada). A1, A2, A3, A4
     - 1 prueba evaluada 5% PA
     - Nota A: 20% PA + 20% Max(A1, PA) + 20% Max(A2, PA) + 20% Max(A3, PA) + 20% Max(A4, PA). Si A1 = A2 = A3 = A4 = 0 => A = 100% PA
   2. Parte 2 25% B
