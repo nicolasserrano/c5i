@@ -16,6 +16,7 @@ Ordenador y calculadoras.
 - Difference Engine demo: <https://youtu.be/BlbQsKpq3Ak?t=1m35s> (hasta 2:54)
 - Regla de cálculo (analógica) <http://www.antiquark.com/sliderule/sim/n3t/virtual-n3-t.html>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/ziol/23974457001/in/album-72157660822955173/" title="Calculadora Brunsviga"><img src="https://c2.staticflickr.com/2/1639/23974457001_be4f4f870f.jpg" width="500" height="375" alt="Calculadora Brunsviga"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+- [Manual de la calculadora mecánica brunsviga](http://www.teclas.org/documentos.php?art=A007)
 
 ## Que diferencia a un ordenador de otras máquinas
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/leighklotz/23756105811/in/photolist-dswDk-6qJHfP-4unaBN-6qNVFW-niADQs-62J6fN-5JDnjz-7pnBc-2LDT2X-2xbVQn-4qYQ3E-CcffBe-nnpFyx-6zHHo7-wnwk67-Aq5Qn9-yg6jSt-Asgz7e-AoYMpN-zpoJSU-z9YcFQ-CpG14s-Aq5NWU-Aq5NmL-zuXNY8-yiHkDE-Dh7iRN-uRtrKR-vYZX11-zgHYdN-JmJp7T-KPjqEv-H2YKTZ-HRnj4H-HR1huX-BoxY1Y-BnbTzx-BhPngU-zuowbD-AoYM61-Arh65a-zuYqRa-zcuKuY-xJpLg3-wLf4ox-tUySHK-qGrkzS-bT8ZZX-aeDwtZ-4NmiDM/" title="HP-65 and HP-67"><img src="https://c4.staticflickr.com/1/650/23756105811_de2b3ae678.jpg" width="500" height="375" alt="HP-65 and HP-67"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
