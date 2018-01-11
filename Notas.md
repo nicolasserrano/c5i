@@ -29,7 +29,7 @@ Ordenadores y calculadoras.
 - memoria de datos e instrucciones (arquitectura Von Neumann)
 
 ## Simulador de procesador
-https://nicolasserrano.github.io/c5i/c5i-ui.html
+
 El procesador costa de un registro donde se realizan las operaciones y 100 posiciones de memoria (numeradas de la 0 a la 99).
 Las sentencias constan de 2 partes, el tipo de instrucción y la dirección de memoria a la que afecta.
 Las instrucciones del procesador son:
@@ -42,7 +42,11 @@ Las instrucciones del procesador son:
 | WRITE | escribe el contenido del registro en la dirección de memoria |
 | JUMP |si el registro es 0, salta a la instrucción indicado en la dirección de memoria |
 
+
+
 <iframe width="660" height="550" src="https://nicolasserrano.github.io/c5i/c5i-ui.html" frameborder="1" allowfullscreen></iframe>
+[procesador c5i](https://nicolasserrano.github.io/c5i/c5i-ui.html)
+[ejercicios c5i](https://nicolasserrano.github.io/c5i/ejercicios)
 
 ## Evaluación
   1. Parte 1 25% A. 
