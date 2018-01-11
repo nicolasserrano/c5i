@@ -6,7 +6,8 @@ Las sentencias constan de
 2 partes, el tipo de instrucción y la dirección de memoria a la que afecta.
 
 Las instrucciones del
-procesador son:
+procesador son:  
+
 | Instrucción | Descripción |
 | ----- | ----- |
 | ADD | suma al registro el contenido de la dirección de memoria |
