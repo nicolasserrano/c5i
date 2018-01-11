@@ -92,7 +92,7 @@ Nota: es útil, escribir en
 dos casillas los valores 0 y 1, por ejemplo en las casillas 80 y 81. En 80: 0,
 en 81: 1.
 
-#### Ejercicio a.6: Multiplicación
+#### Ejercicio a.7: Multiplicación
 
 Modificar
 el ejercicio anterior, para que, además de escribir el número en la posición
