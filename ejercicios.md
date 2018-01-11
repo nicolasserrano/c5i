@@ -7,51 +7,13 @@ Las sentencias constan de
 
 Las instrucciones del
 procesador son:
-
- 
-
-ADD
-
- 
-
-suma al registro el contenido de la dirección de
-  memoria
-
- 
-
-SUBTRACT
-
- 
-
-resta al registro el contenido de la dirección
-  de memoria
-
- 
-
-READ
-
- 
-
-lee la dirección de memoria y la pone en el
-  registro
-
- 
-
-WRITE
-
- 
-
-escribe el contenido del registro en la
-  dirección de memoria
-
- 
-
-JUMP
-
- 
-
-si el registro es 0, salta a la instrucción
-  indicado en la dirección de memoria
+| Instrucción | Descripción |
+| ----- | ----- |
+| ADD | suma al registro el contenido de la dirección de memoria |
+| SUBTRACT | resta al registro el contenido de la dirección de memoria |
+| READ | lee la dirección de memoria y la pone en el registro |
+| WRITE | escribe el contenido del registro en la dirección de memoria |
+| JUMP |si el registro es 0, salta a la instrucción indicado en la dirección de memoria |
 
 #### Ejercicio a.1: Suma de dos números
 
