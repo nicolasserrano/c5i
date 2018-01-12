@@ -41,9 +41,9 @@ Escribir en las casillas
 
 #### Ejercicio a.5: Suma de numeros
 
-En las casillas 70 a 74 hay 5 numeros.  
+En las casillas 70 a 74 hay escritos 5 numeros.  
 En las casillas 80 a 84 estan los valoes 0 o 1.
-Realizar la suma de las casillas 50 a 54 que debajo tengan un 1. Escribir el resultado en la casilla 99
+Realizar la suma de las casillas 70 a 74 que debajo (casillas 80 a 84) tengan un 1. Escribir el resultado en la casilla 99.
 
 #### Ejercicio a.6: Multiplicación
 
