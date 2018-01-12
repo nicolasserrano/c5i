@@ -41,11 +41,19 @@ Escribir en las casillas
 
 #### Ejercicio a.5: Suma de numeros
 
-En las casillas 50 a 54 hay 5 numeros.  
-En las casillas 60 a 64 estan los valoes 0 o 1.
+En las casillas 70 a 74 hay 5 numeros.  
+En las casillas 80 a 84 estan los valoes 0 o 1.
 Realizar la suma de las casillas 50 a 54 que debajo tengan un 1. Escribir el resultado en la casilla 99
 
-#### Ejercicio a.6: Escritura de n números
+#### Ejercicio a.6: Multiplicación
+
+Realizar la multiplica de las casillas 90 y 91 y escribir el resultado en la casilla 50.
+
+Nota: es útil, escribir en
+dos casillas los valores 0 y 1, por ejemplo en las casillas 80 y 81. En 80: 0,
+en 81: 1.
+
+#### Ejercicio a.7: Escritura de n números
 
 Escribir a partir de la
 casilla 50 el valor de la casilla 90, el número de veces que indique la casilla
@@ -55,7 +63,7 @@ Nota: es útil, escribir en
 dos casillas los valores 0 y 1, por ejemplo en las casillas 80 y 81. En 80: 0,
 en 81: 1.
 
-#### Ejercicio a.7: Multiplicación
+#### Ejercicio a.8: Multiplicación
 
 Modificar
 el ejercicio anterior, para que, además de escribir el número en la posición
