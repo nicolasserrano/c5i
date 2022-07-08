@@ -44,7 +44,7 @@ Las instrucciones del procesador son:
 
 
 
-<iframe width="660" height="550" src="://nicolasserrano.github.io/c5i/c5i-ui.html" frameborder="1" allowfullscreen></iframe>
+<iframe width="660" height="550" src="//nicolasserrano.github.io/c5i/c5i-ui.html" frameborder="1" allowfullscreen></iframe>
 [procesador c5i](https://nicolasserrano.github.io/c5i/c5i-ui.html)
 [ejercicios c5i](https://nicolasserrano.github.io/c5i/ejercicios)
 
