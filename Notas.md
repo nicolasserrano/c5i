@@ -13,6 +13,8 @@ Ordenadores y calculadoras.
 - <http://www.computerhistory.org/babbage>  
 
   <iframe width="360" height="240" src="https://www.youtube.com/embed/KBuJqUfO4-w" frameborder="0" allowfullscreen></iframe>
+  
+  YouTube
 - Video de Babbage (novelado): <http://www.youtube.com/watch?v=QVxbNZWLP60>
 - Difference Engine demo: <https://youtu.be/BlbQsKpq3Ak?t=1m35s> (hasta 2:54)
 - Regla de cálculo (analógica) <http://www.antiquark.com/sliderule/sim/n3t/virtual-n3-t.html>
